@@ -43,12 +43,6 @@ dotnet run
 
 4. Open the local application URL displayed in the application output window.
 
-## Project Structure
-
-- `BlazorServer/_Imports.razor` — shared Razor namespace imports.
-- `BlazorServer/Pages/Index.razor` — hosts the chart, range selector, and title update logic.
-- `BlazorServer/Pages/*.razor` — Razor pages used to render and support the showcase experience.
-
 ## Support and Feedback
 
 - For general product questions, visit the [Syncfusion Community Forum](https://www.syncfusion.com/forums) or [Syncfusion Support](https://www.syncfusion.com/support).
